@@ -1,0 +1,24 @@
+h1 {color: #1119f5;
+}
+h3 {color: #1119f5;
+}
+p {color: #013e83}
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.phone {color: rgb(94, 94, 94)}
+#email {color:rgb(94, 94, 94)}
+
+footer {color: blueviolet}
+
+#quadro {
+    height: 550px;
+    width: 550px;
+    background-color: rgb(162, 194, 253);
+
+}
+#quadrado {
+    background-color: cornsilk;
+    height: 350px;
+    width: 350px;
+}
